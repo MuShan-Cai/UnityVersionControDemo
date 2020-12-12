@@ -422,7 +422,7 @@ MonoBehaviour:
   spawnZone: {fileID: 507782988}
   levelObjects:
   - {fileID: 507782988}
-  populationLimit: 100
+  populationLimit: 120
 --- !u!4 &509811152
 Transform:
   m_ObjectHideFlags: 0
