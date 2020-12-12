@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Lean/Touch/Examples/12 Transform 3D.unity
+    guid: bcc6d67bd10127441a6feb2e68bfe9e8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/YiZhongNianTou/Scenes/MainScene.unity
+    guid: a00abd741ccea0f448c8bbcf814fce2e
+  - enabled: 1
+    path: Assets/YiZhongNianTou/Scenes/Level 1.unity
+    guid: 29f861b00df0ce0409da3856f550c36a
+  - enabled: 1
+    path: Assets/YiZhongNianTou/Scenes/Level 2.unity
+    guid: 1f22ba4e77c0ad244bcb9f521c33967a
+  - enabled: 1
+    path: Assets/YiZhongNianTou/Scenes/Level 3.unity
+    guid: 2634193326b2acc48a0c1f24aab4e82c
+  - enabled: 1
+    path: Assets/YiZhongNianTou/Scenes/Level 4.unity
+    guid: 1037c6767fe3c13479c9e9b78cbacfcd
+  m_configObjects: {}
